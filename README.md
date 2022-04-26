@@ -1,2 +1,2 @@
-# Final-project-final-project
+# Final-project
 Movie recommendation system   (content based)
